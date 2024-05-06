@@ -5,7 +5,13 @@
 
 ---
 
-You'll here find my public and forked repositories. Feel free to contact me if you have any suggestions or questions.
+💼 Cloud infrastructure engineer with over 7 years of experience in the tech realm, primarily focused on Microsoft Azure.
+
+🛠️ I thrive on automation using Bicep and Terraform to architect and manage robust cloud solutions.
+
+🚀 Passionate about DevOps practices and CI/CD, I love optimizing workflows for efficiency and scalability.
+
+💡 Always hungry for knowledge and eager to learn about emerging technologies. I'm on a journey of continuous learning and innovation in cloud infrastructure!
 
 ---
 
