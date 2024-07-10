@@ -33,4 +33,3 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/lewismcleanin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lewismcleanin-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.twitter.com/itengineerguy/"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-itengineerguy-blue?style=flat-square&logo=twitter"></a>
